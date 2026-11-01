@@ -13,3 +13,5 @@ Also working on Arc, an AI planning app for students, and Bytes for Better Lives
 - 🪐 **[Arc](https://github.com/Andrey199123/Arc_MicroDC#readme)** - turn a goal into milestones, weekly tasks, and a calendar.
 
 - 🚗 **[DriveSafe AI](https://github.com/Andrey199123/DriveSafe-AI#readme)** - camera-monitoring prototype with server-side vision analysis.
+
+- 📊 **[ASA Statistics](https://github.com/Andrey199123/ASA-Statistics-Research-Project#readme)** - exploratory analysis of Instacart order timing with Python and statistical testing.
