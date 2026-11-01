@@ -26,6 +26,8 @@ Also working on Arc, an AI planning app for students, and Bytes for Better Lives
 
 - 🧩 **[Word Hunt Tournament](https://github.com/Andrey199123/WordHunt-Tournament#readme)** - two-player word game with live scoring and a spectator screen
 
+- 🐧 **[Slippy Penguin](https://github.com/Andrey199123/Slippy-Penguin#readme)** - isometric Pygame game with procedural terrain, snow, and sound
+
 ## Other projects
 
 - 🥬 **[Poverello Pantry](https://github.com/Andrey199123/Storefront#readme)** - points-based grocery ordering, inventory, and self-service kiosks
