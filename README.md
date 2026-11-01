@@ -1,55 +1,43 @@
-# Andrey Vasilyev
+Building software for WildSide Online to read race bib numbers and organize photos by runner
 
-Building products that blend AI, systems thinking, and real-world impact — from nonprofit technology to research tools, student planning apps, and interactive experiences.
+Also working on Arc, an AI planning app for students, and Bytes for Better Lives, a nonprofit expanding access to technology
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Convex](https://img.shields.io/badge/-Convex-EE342F?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Machine%20Learning](https://img.shields.io/badge/-Machine%20Learning-FF6B6B?style=for-the-badge)
-![AI](https://img.shields.io/badge/-AI-00C2FF?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-## Currently building
+- 🌍 **[Bytes for Better Lives](https://github.com/Andrey199123/bytesforbetterlives#readme)** - website and chapter-management platform for our digital-equity nonprofit
 
-- 🌍 **[Bytes for Better Lives](https://github.com/Andrey199123/bytesforbetterlives#readme)** — digital equity platform for a nonprofit expanding access to technology and community support
-- 🪐 **[Arc](https://github.com/Andrey199123/Arc_MicroDC#readme)** — AI-powered planning app that transforms broad goals into actionable weekly schedules
-- 🚗 **[WildSide Online](https://github.com/Andrey199123/WildSide-Online#readme)** — software for reading race bib numbers and organizing runner photos automatically
+- 🪐 **[Arc](https://github.com/Andrey199123/Arc_MicroDC#readme)** - AI planning app that converts goals into actionable weekly task schedules
 
-## Featured projects
+- 🧠 **[Machine Learning Lab](https://github.com/Andrey199123/Machine-Learning#readme)** - implementations of neural networks, decision trees, and reinforcement learning algorithms
 
-### AI, research, and systems
+- 🎙️ **[K-12 Voice Chatbot](https://github.com/Voice-AI-Learning/k12-voice-chatbot#readme)** - educational voice assistant with browser speech recognition and three learning modes
 
-- 🧠 **[Machine Learning Lab](https://github.com/Andrey199123/Machine-Learning#readme)** — neural networks, decision trees, and reinforcement learning experiments
-- 🎙️ **[K-12 Voice Chatbot](https://github.com/Voice-AI-Learning/k12-voice-chatbot#readme)** — educational voice assistant with browser speech recognition and adaptive learning modes
-- 🚗 **[DriveSafe AI](https://github.com/Andrey199123/DriveSafe-AI#readme)** — real-time driver monitoring system using computer vision and AI analysis
-- 📊 **[American Statistical Association Statistics](https://github.com/Andrey199123/ASA-Statistics-Research-Project#readme)** — statistical analysis of Instacart ordering patterns with hypothesis testing
-- ⚛️ **[Muon Tomography](https://github.com/Andrey199123/Muon-Tomography#readme)** — Geant4 particle physics simulation with 3D visualization
+- 🚗 **[DriveSafe AI](https://github.com/Andrey199123/DriveSafe-AI#readme)** - real-time driver monitoring system using computer vision
 
-### Games and creative builds
+## Research
 
-- 🧩 **[Word Hunt Tournament](https://github.com/Andrey199123/WordHunt-Tournament#readme)** — multiplayer word game with real-time scoring
-- 🐧 **[Slippy Penguin](https://github.com/Andrey199123/Slippy-Penguin#readme)** — isometric Pygame game with procedural terrain generation
-- 🐍 **[Python Learning Archive](https://github.com/Andrey199123/Python#readme)** — collection of Python experiments, scripts, and game prototypes built while learning
+- 📊 **[American Statistical Association Statistics](https://github.com/Andrey199123/ASA-Statistics-Research-Project#readme)** - statistical analysis of Instacart ordering patterns using hypothesis testing
 
-### Tools and full-stack work
+- ⚛️ **[Muon Tomography](https://github.com/Andrey199123/Muon-Tomography#readme)** - Geant4 particle physics simulation with 3D visualization
 
-- 🥬 **[Poverello Pantry](https://github.com/Andrey199123/Storefront#readme)** — inventory and ordering system for food pantry operations
-- 🛒 **[Amazon Scraper](https://github.com/Andrey199123/Amazon-Scraper#readme)** — automated tracking of Amazon bestseller rankings
-- 🍎 **[AppleScript](https://github.com/Andrey199123/Applescript#readme)** — macOS automation integrating AI tools into everyday workflows
-- 🤖 **[Vision-Guided Robotics](https://github.com/Andrey199123/Vision-Guided-Robotics#readme)** — autonomous robot navigation using OpenCV
+## Games
 
-## Stacks and interests
+- 🧩 **[Word Hunt Tournament](https://github.com/Andrey199123/WordHunt-Tournament#readme)** - multiplayer word game with real-time scoring system
 
-- Python
-- TypeScript
-- React
-- AI / machine learning
-- Computer vision
-- Full-stack product development
-- Research tooling and experimentation
+- 🐧 **[Slippy Penguin](https://github.com/Andrey199123/Slippy-Penguin#readme)** - isometric Pygame game with procedurally generated terrain
 
-## Why I build
+- 🐍 **[Python Learning Archive](https://github.com/Andrey199123/Python#readme)** - learning archive of Python experiments, game prototypes, and small scripts
 
-I enjoy creating software that feels useful, fast, and human-centered. Whether it is helping a nonprofit operate more efficiently, designing AI tools for education, or exploring data-driven product ideas, I aim to build things that solve real problems and create measurable value.
+## Other projects
+
+- 🥬 **[Poverello Pantry](https://github.com/Andrey199123/Storefront#readme)** - full-stack inventory and ordering system for food pantry operations
+
+- 🛒 **[Amazon Scraper](https://github.com/Andrey199123/Amazon-Scraper#readme)** - web scraping tool for tracking Amazon bestseller rankings
+
+- 🍎 **[AppleScript](https://github.com/Andrey199123/Applescript#readme)** - macOS automation scripts integrating AI tools with system applications
+
+- 🤖 **[Vision-Guided Robotics](https://github.com/Andrey199123/Vision-Guided-Robotics#readme)** - autonomous robot navigation using OpenCV
