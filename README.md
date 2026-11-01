@@ -1,4 +1,4 @@
-Building web apps and experimenting with computer vision. Currently working on Arc and Bytes for Better Lives.
+Developing software for WildSide Online. Also building Arc and the Bytes for Better Lives platform, and experimenting with computer vision.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
