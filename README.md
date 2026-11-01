@@ -17,3 +17,7 @@ Also working on Arc, an AI planning app for students, and Bytes for Better Lives
 - 📊 **[American Statistical Association Statistics](https://github.com/Andrey199123/ASA-Statistics-Research-Project#readme)** - exploratory analysis of Instacart order timing with Python and statistical testing.
 
 - ⚛️ **[Muon Tomography](https://github.com/Andrey199123/Muon-Tomography#readme)** - Geant4 simulation and Python/PyVista visualization of simulated muon tracks.
+
+- 🥬 **[Poverello Pantry](https://github.com/Andrey199123/Storefront#readme)** - points-based grocery ordering, inventory, and self-service kiosks.
+
+- 🛒 **[Amazon Scraper](https://github.com/Andrey199123/Amazon-Scraper#readme)** - snapshots and comparisons of Amazon bestseller listings.
