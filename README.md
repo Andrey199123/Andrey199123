@@ -20,6 +20,10 @@ Also working on Arc, an AI planning app for students, and Bytes for Better Lives
 
 - ⚛️ **[Muon Tomography](https://github.com/Andrey199123/Muon-Tomography#readme)** - Geant4 simulation and Python/PyVista visualization of simulated muon tracks.
 
+## Games
+
+- 🧩 **[Word Hunt Tournament](https://github.com/Andrey199123/WordHunt-Tournament#readme)** - two-player word game with live scoring and a spectator screen.
+
 ## Other projects
 
 - 🥬 **[Poverello Pantry](https://github.com/Andrey199123/Storefront#readme)** - points-based grocery ordering, inventory, and self-service kiosks.
