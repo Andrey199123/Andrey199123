@@ -14,6 +14,8 @@ Also working on Arc, an AI planning app for students, and Bytes for Better Lives
 
 - 🧠 **[Machine Learning Lab](https://github.com/Andrey199123/Machine-Learning#readme)** - implementations of neural networks, decision trees, and reinforcement learning algorithms
 
+- 🎙️ **[K-12 Voice Chatbot](https://github.com/Voice-AI-Learning/k12-voice-chatbot#readme)** - educational voice assistant with browser speech recognition and three learning modes
+
 - 🚗 **[DriveSafe AI](https://github.com/Andrey199123/DriveSafe-AI#readme)** - real-time driver monitoring system using computer vision
 
 ## Research
