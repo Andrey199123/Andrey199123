@@ -1,17 +1,15 @@
-# Hi, I'm Andrey 👋
-
-**Developer · USAJMO qualifier · USACO Gold**
-
-Building apps for student goals, community organizations, and computer vision. Congressional App Challenge district winner and co-founder of the Bytes for Better Lives nonprofit.
+Building web apps and experimenting with computer vision. Currently working on Arc, Poverello Pantry, and Bytes for Better Lives.
 
 `TypeScript` `Python` `React` `Convex` `Firebase`
 
-## What I'm building
+## Start Here
 
-🚗 **[DriveSafe AI](https://github.com/Andrey199123/DriveSafe-AI#readme)**: camera-monitoring prototype with server-side vision analysis. Congressional App Challenge winner.
+🚗 **[DriveSafe AI](https://github.com/Andrey199123/DriveSafe-AI#readme)**: camera-monitoring prototype with server-side vision analysis.
 
-🪐 **[Arc](https://github.com/Andrey199123/Arc_MicroDC#readme)**: team-built AI planning app that turns goals into milestones and scheduled tasks.
+🪐 **[Arc](https://github.com/Andrey199123/Arc_MicroDC#readme)**: turn a goal into milestones, weekly tasks, and a calendar.
 
-🥬 **[Poverello Pantry](https://github.com/Andrey199123/Storefront#readme)**: team-built food-pantry ordering, inventory, and self-service kiosk system.
+🥬 **[Poverello Pantry](https://github.com/Andrey199123/Storefront#readme)**: points-based grocery ordering, inventory, and self-service kiosks.
 
-🌍 **[Bytes for Better Lives](https://github.com/Andrey199123/bytesforbetterlives#readme)**: nonprofit website and chapter-management platform, built with Petr Kirsanov.
+🌍 **[Bytes for Better Lives](https://github.com/Andrey199123/bytesforbetterlives#readme)**: website and chapter-management platform for our digital-equity nonprofit.
+
+Arc, Poverello Pantry, and Bytes for Better Lives are collaborative projects. Individual repositories include project scope and credits.
