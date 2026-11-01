@@ -6,8 +6,6 @@ Building web apps and experimenting with computer vision. Currently working on A
 ![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-## Start Here
-
 🚗 **[DriveSafe AI](https://github.com/Andrey199123/DriveSafe-AI#readme)**: camera-monitoring prototype with server-side vision analysis.
 
 🪐 **[Arc](https://github.com/Andrey199123/Arc_MicroDC#readme)**: turn a goal into milestones, weekly tasks, and a calendar.
