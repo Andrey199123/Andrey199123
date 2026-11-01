@@ -35,3 +35,5 @@ Also working on Arc, an AI planning app for students, and Bytes for Better Lives
 - 🛒 **[Amazon Scraper](https://github.com/Andrey199123/Amazon-Scraper#readme)** - snapshots and comparisons of Amazon bestseller listings
 
 - 🍎 **[AppleScript](https://github.com/Andrey199123/Applescript#readme)** - macOS automation experiments connecting local AI tools with Messages
+
+- 🤖 **[Vision-Guided Robotics](https://github.com/Andrey199123/Vision-Guided-Robotics#readme)** - sophomore-year team project using OpenCV for path following, turn detection, and obstacle sensing
