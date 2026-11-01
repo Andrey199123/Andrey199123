@@ -8,32 +8,32 @@ Also working on Arc, an AI planning app for students, and Bytes for Better Lives
 ![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-- 🌍 **[Bytes for Better Lives](https://github.com/Andrey199123/bytesforbetterlives#readme)** - website and chapter-management platform for our digital-equity nonprofit
+- **[Bytes for Better Lives](https://github.com/Andrey199123/bytesforbetterlives#readme)** - website and chapter-management platform for our digital-equity nonprofit
 
-- 🪐 **[Arc](https://github.com/Andrey199123/Arc_MicroDC#readme)** - turn a goal into milestones, weekly tasks, and a calendar
+- **[Arc](https://github.com/Andrey199123/Arc_MicroDC#readme)** - AI planning app that converts goals into actionable weekly task schedules
 
-- 🧠 **[Machine Learning Lab](https://github.com/Andrey199123/Machine-Learning#readme)** - coursework experiments in classification, regression, game-playing, and tokenization
+- **[Machine Learning Lab](https://github.com/Andrey199123/Machine-Learning#readme)** - implementations of neural networks, decision trees, and reinforcement learning algorithms
 
-- 🚗 **[DriveSafe AI](https://github.com/Andrey199123/DriveSafe-AI#readme)** - camera-monitoring prototype with server-side vision analysis
+- **[DriveSafe AI](https://github.com/Andrey199123/DriveSafe-AI#readme)** - real-time driver monitoring system using computer vision
 
 ## Research
 
-- 📊 **[American Statistical Association Statistics](https://github.com/Andrey199123/ASA-Statistics-Research-Project#readme)** - exploratory analysis of Instacart order timing with Python and statistical testing
+- **[American Statistical Association Statistics](https://github.com/Andrey199123/ASA-Statistics-Research-Project#readme)** - statistical analysis of Instacart ordering patterns using hypothesis testing
 
-- ⚛️ **[Muon Tomography](https://github.com/Andrey199123/Muon-Tomography#readme)** - Geant4 simulation and Python/PyVista visualization of simulated muon tracks
+- **[Muon Tomography](https://github.com/Andrey199123/Muon-Tomography#readme)** - Geant4 particle physics simulation with 3D visualization
 
 ## Games
 
-- 🧩 **[Word Hunt Tournament](https://github.com/Andrey199123/WordHunt-Tournament#readme)** - two-player word game with live scoring and a spectator screen
+- **[Word Hunt Tournament](https://github.com/Andrey199123/WordHunt-Tournament#readme)** - multiplayer word game with real-time scoring system
 
-- 🐧 **[Slippy Penguin](https://github.com/Andrey199123/Slippy-Penguin#readme)** - isometric Pygame game with procedural terrain, snow, and sound
+- **[Slippy Penguin](https://github.com/Andrey199123/Slippy-Penguin#readme)** - isometric Pygame game with procedurally generated terrain
 
 ## Other projects
 
-- 🥬 **[Poverello Pantry](https://github.com/Andrey199123/Storefront#readme)** - points-based grocery ordering, inventory, and self-service kiosks
+- **[Poverello Pantry](https://github.com/Andrey199123/Storefront#readme)** - full-stack inventory and ordering system for food pantry operations
 
-- 🛒 **[Amazon Scraper](https://github.com/Andrey199123/Amazon-Scraper#readme)** - snapshots and comparisons of Amazon bestseller listings
+- **[Amazon Scraper](https://github.com/Andrey199123/Amazon-Scraper#readme)** - web scraping tool for tracking Amazon bestseller rankings
 
-- 🍎 **[AppleScript](https://github.com/Andrey199123/Applescript#readme)** - macOS automation experiments connecting local AI tools with Messages
+- **[AppleScript](https://github.com/Andrey199123/Applescript#readme)** - macOS automation scripts integrating AI tools with system applications
 
-- 🤖 **[Vision-Guided Robotics](https://github.com/Andrey199123/Vision-Guided-Robotics#readme)** - sophomore-year team project using OpenCV for path following, turn detection, and obstacle sensing
+- **[Vision-Guided Robotics](https://github.com/Andrey199123/Vision-Guided-Robotics#readme)** - autonomous robot navigation using OpenCV
