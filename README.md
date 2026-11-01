@@ -1,6 +1,10 @@
 Building web apps and experimenting with computer vision. Currently working on Arc and Bytes for Better Lives.
 
-`TypeScript` `Python` `React` `Convex` `Firebase`
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ## Start Here
 
