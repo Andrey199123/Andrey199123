@@ -6,12 +6,10 @@ Building web apps and experimenting with computer vision. Currently working on A
 ![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-🚗 **[DriveSafe AI](https://github.com/Andrey199123/DriveSafe-AI#readme)**: camera-monitoring prototype with server-side vision analysis.
+🚗 **[DriveSafe AI](https://github.com/Andrey199123/DriveSafe-AI#readme)** - camera-monitoring prototype with server-side vision analysis.
 
-🪐 **[Arc](https://github.com/Andrey199123/Arc_MicroDC#readme)**: turn a goal into milestones, weekly tasks, and a calendar.
+🪐 **[Arc](https://github.com/Andrey199123/Arc_MicroDC#readme)** - turn a goal into milestones, weekly tasks, and a calendar.
 
-🥬 **[Poverello Pantry](https://github.com/Andrey199123/Storefront#readme)**: points-based grocery ordering, inventory, and self-service kiosks.
+🥬 **[Poverello Pantry](https://github.com/Andrey199123/Storefront#readme)** - points-based grocery ordering, inventory, and self-service kiosks.
 
-🌍 **[Bytes for Better Lives](https://github.com/Andrey199123/bytesforbetterlives#readme)**: website and chapter-management platform for our digital-equity nonprofit.
-
-Arc, Poverello Pantry, and Bytes for Better Lives are collaborative projects. Individual repositories include project scope and credits.
+🌍 **[Bytes for Better Lives](https://github.com/Andrey199123/bytesforbetterlives#readme)** - website and chapter-management platform for our digital-equity nonprofit.
