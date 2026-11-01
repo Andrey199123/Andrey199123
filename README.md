@@ -1,4 +1,4 @@
-Building web apps and experimenting with computer vision. Currently working on Arc, Poverello Pantry, and Bytes for Better Lives.
+Building web apps and experimenting with computer vision. Currently working on Arc and Bytes for Better Lives.
 
 `TypeScript` `Python` `React` `Convex` `Firebase`
 
