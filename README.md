@@ -12,6 +12,8 @@ Also working on Arc, an AI planning app for students, and Bytes for Better Lives
 
 - 🪐 **[Arc](https://github.com/Andrey199123/Arc_MicroDC#readme)** - turn a goal into milestones, weekly tasks, and a calendar.
 
+- 🧠 **[Machine Learning Lab](https://github.com/Andrey199123/Machine-Learning#readme)** - coursework experiments in classification, regression, game-playing, and tokenization.
+
 - 🚗 **[DriveSafe AI](https://github.com/Andrey199123/DriveSafe-AI#readme)** - camera-monitoring prototype with server-side vision analysis.
 
 ## Research
