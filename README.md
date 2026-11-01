@@ -33,3 +33,5 @@ Also working on Arc, an AI planning app for students, and Bytes for Better Lives
 - 🥬 **[Poverello Pantry](https://github.com/Andrey199123/Storefront#readme)** - points-based grocery ordering, inventory, and self-service kiosks
 
 - 🛒 **[Amazon Scraper](https://github.com/Andrey199123/Amazon-Scraper#readme)** - snapshots and comparisons of Amazon bestseller listings
+
+- 🍎 **[AppleScript](https://github.com/Andrey199123/Applescript#readme)** - macOS automation experiments connecting local AI tools with Messages
