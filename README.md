@@ -20,7 +20,7 @@ Also working on Arc, an AI planning app for students, and Bytes for Better Lives
 
 ## Research
 
-- 🧬 **[RNA Structural and Functional Task Datasets](https://github.com/Andrey199123/RNA-Structural-and-Functional-Task-Datasets#readme)** - reproducible preparation pipelines and curated benchmark snapshots for RNA structure and functional prediction
+- 🧬 **[RNA Structural and Functional Task Datasets](https://github.com/Andrey199123/RNA-Structural-and-Functional-Task-Datasets#readme)** - dataset preparation for RNAtomy (RNA structure and function)
 
 - 📊 **[American Statistical Association Statistics](https://github.com/Andrey199123/ASA-Statistics-Research-Project#readme)** - statistical analysis of Instacart ordering patterns using hypothesis testing
 
